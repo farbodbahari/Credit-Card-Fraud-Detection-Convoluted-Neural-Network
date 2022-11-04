@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-Convoluted-Neural-Network
+# kaggle- Credit-Card-Fraud-Detection-Convoluted-Neural-Network
 
 This python code shows how to fit a CNN model and predict credit card fraud transactions
 
